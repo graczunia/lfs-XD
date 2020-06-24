@@ -28,3 +28,5 @@
 - ```CFLAGS="-O3 -pipe -march=native"```
 - ```CXXFLAGS="$CFLAGS"```
 - ```MAKEFLAGS="-j6"```
+
+# [dobra reszta tutaj](https://github.com/graczunia/lfs-XD/wiki/0.-Home)
